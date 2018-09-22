@@ -1,0 +1,75 @@
+﻿  main.cpp
+d:\vc\gamesmario\gamesmario\animation.h(36): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+d:\vc\gamesmario\gamesmario\animation.h(88): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\vc\gamesmario\gamesmario\animation.h(103): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\vc\gamesmario\gamesmario\animation.h(117): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\vc\gamesmario\gamesmario\animation.h(127): warning C4244: return: преобразование "int" в "float", возможна потеря данных
+d:\vc\gamesmario\gamesmario\animation.h(128): warning C4244: return: преобразование "int" в "float", возможна потеря данных
+d:\vc\gamesmario\gamesmario\level.h(60): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+d:\vc\gamesmario\gamesmario\level.h(144): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+d:\vc\gamesmario\gamesmario\level.h(145): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+d:\vc\gamesmario\gamesmario\level.h(185): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\vc\gamesmario\gamesmario\level.h(242): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\vc\gamesmario\gamesmario\level.h(263): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+d:\vc\gamesmario\gamesmario\level.h(264): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+d:\vc\gamesmario\gamesmario\level.h(265): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+d:\vc\gamesmario\gamesmario\level.h(266): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+d:\vc\gamesmario\gamesmario\entity.h(28): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+d:\vc\gamesmario\gamesmario\entity.h(29): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+d:\vc\gamesmario\gamesmario\entity.h(40): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+d:\vc\gamesmario\gamesmario\player.h(32): warning C4305: =: усечение из "double" в "float"
+d:\vc\gamesmario\gamesmario\player.h(39): warning C4305: =: усечение из "double" в "float"
+d:\vc\gamesmario\gamesmario\player.h(47): warning C4305: =: усечение из "double" в "float"
+d:\vc\gamesmario\gamesmario\player.h(48): warning C4305: =: усечение из "double" в "float"
+d:\vc\gamesmario\gamesmario\player.h(55): warning C4305: =: усечение из "double" в "float"
+d:\vc\gamesmario\gamesmario\player.h(117): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+d:\vc\gamesmario\gamesmario\player.h(126): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+d:\vc\gamesmario\gamesmario\player.h(168): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+d:\vc\gamesmario\gamesmario\player.h(170): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+d:\vc\gamesmario\gamesmario\player.h(177): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+d:\vc\gamesmario\gamesmario\player.h(179): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+d:\vc\gamesmario\gamesmario\enemy.h(12): warning C4305: аргумент: усечение из "double" в "float"
+d:\vc\gamesmario\gamesmario\coins.h(13): warning C4305: аргумент: усечение из "double" в "float"
+d:\vc\gamesmario\gamesmario\healthbar.h(24): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\vc\gamesmario\gamesmario\movingplatform.h(11): warning C4305: аргумент: усечение из "double" в "float"
+d:\vc\gamesmario\gamesmario\movingplatformv.h(11): warning C4305: аргумент: усечение из "double" в "float"
+d:\vc\gamesmario\gamesmario\bullet.h(12): warning C4305: аргумент: усечение из "double" в "float"
+d:\vc\gamesmario\gamesmario\bullet.h(13): warning C4305: =: усечение из "double" в "float"
+d:\vc\gamesmario\gamesmario\bullet.h(46): warning C4553: ==: оператор не имеет результата; возможно, имелся в виду "="
+d:\vc\gamesmario\gamesmario\bonus.h(12): warning C4305: аргумент: усечение из "double" в "float"
+d:\vc\gamesmario\gamesmario\screen.h(126): error C2039: setFillColor: не является членом "sf::Text"
+  d:\vc\gamesmario\gamesmario\sfml\include\sfml\graphics\text.hpp(48): note:  см. объявление "sf::Text"
+d:\vc\gamesmario\gamesmario\screen.h(127): error C2039: setFillColor: не является членом "sf::Text"
+  d:\vc\gamesmario\gamesmario\sfml\include\sfml\graphics\text.hpp(48): note:  см. объявление "sf::Text"
+d:\vc\gamesmario\gamesmario\screen.h(128): error C2039: setFillColor: не является членом "sf::Text"
+  d:\vc\gamesmario\gamesmario\sfml\include\sfml\graphics\text.hpp(48): note:  см. объявление "sf::Text"
+d:\vc\gamesmario\gamesmario\screen.h(132): error C2039: setFillColor: не является членом "sf::Text"
+  d:\vc\gamesmario\gamesmario\sfml\include\sfml\graphics\text.hpp(48): note:  см. объявление "sf::Text"
+d:\vc\gamesmario\gamesmario\screen.h(133): error C2039: setFillColor: не является членом "sf::Text"
+  d:\vc\gamesmario\gamesmario\sfml\include\sfml\graphics\text.hpp(48): note:  см. объявление "sf::Text"
+d:\vc\gamesmario\gamesmario\screen.h(134): error C2039: setFillColor: не является членом "sf::Text"
+  d:\vc\gamesmario\gamesmario\sfml\include\sfml\graphics\text.hpp(48): note:  см. объявление "sf::Text"
+d:\vc\gamesmario\gamesmario\game.h(73): warning C4305: аргумент: усечение из "double" в "float"
+d:\vc\gamesmario\gamesmario\game.h(80): warning C4305: аргумент: усечение из "double" в "float"
+d:\vc\gamesmario\gamesmario\game.h(82): warning C4305: аргумент: усечение из "double" в "float"
+d:\vc\gamesmario\gamesmario\game.h(89): warning C4305: аргумент: усечение из "double" в "float"
+d:\vc\gamesmario\gamesmario\game.h(92): warning C4305: аргумент: усечение из "double" в "float"
+d:\vc\gamesmario\gamesmario\game.h(130): error C2039: setFillColor: не является членом "sf::Text"
+  d:\vc\gamesmario\gamesmario\sfml\include\sfml\graphics\text.hpp(48): note:  см. объявление "sf::Text"
+d:\vc\gamesmario\gamesmario\game.h(133): error C2039: setFillColor: не является членом "sf::Text"
+  d:\vc\gamesmario\gamesmario\sfml\include\sfml\graphics\text.hpp(48): note:  см. объявление "sf::Text"
+d:\vc\gamesmario\gamesmario\game.h(160): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+d:\vc\gamesmario\gamesmario\game.h(168): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+d:\vc\gamesmario\gamesmario\game.h(171): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+d:\vc\gamesmario\gamesmario\game.h(174): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+d:\vc\gamesmario\gamesmario\game.h(177): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+d:\vc\gamesmario\gamesmario\game.h(180): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+d:\vc\gamesmario\gamesmario\game.h(183): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+d:\vc\gamesmario\gamesmario\game.h(191): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+d:\vc\gamesmario\gamesmario\game.h(206): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+d:\vc\gamesmario\gamesmario\game.h(251): warning C4305: =: усечение из "double" в "float"
+  tinystr.cpp
+  tinyxml.cpp
+  tinyxmlerror.cpp
+  tinyxmlparser.cpp
+  Создание кода...

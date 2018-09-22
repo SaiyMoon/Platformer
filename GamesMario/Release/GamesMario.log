@@ -1,0 +1,6 @@
+﻿  main.cpp
+d:\vc\gamesmario\gamesmario\main.cpp(3): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  tinystr.cpp
+  tinyxml.cpp
+  tinyxmlerror.cpp
+  tinyxmlparser.cpp
